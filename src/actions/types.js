@@ -1,0 +1,8 @@
+export const GET_PRODUCTS = 'get_products'
+export const ADD_TO_CART = 'add_to_cart'
+export const UPDATE_QUANTITY = 'update_quantity'
+export const REMOVE_ITEM = 'remove_item'
+export const APPLY_PROMO = 'apply_promo'
+export const INVALID_PROMO = 'invalid_promo'
+export const FINAL_CHECKOUT = 'final_checkout'
+export const INVALID_CHECKOUT = 'invalid_checkout'

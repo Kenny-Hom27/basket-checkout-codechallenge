@@ -1,0 +1,22 @@
+.center-text {
+  text-align: center;
+}
+
+.product-item {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.purple-link {
+  background-color: purple;
+  color: white;
+}
+
+.basket-count-info {
+  padding: 15px 10px 10px 10px;
+  border: 1px solid grey;
+}
+
+.checkout-item {
+  padding-bottom: 20px;
+}
